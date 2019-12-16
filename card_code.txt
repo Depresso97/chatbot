@@ -1,0 +1,11 @@
+{
+	"cards": []
+  	{
+		"header": "Chatbots",
+  		"image": "https://udemy-images.udemy.com/course/240x135/889438_fd0d_3.jpg",
+  		"description": "Chatbots for Facebook with node.js and dialogflow",
+  		"link": "https://materializecss.com/navbar.html",
+  		"price": "Free"
+	},
+	
+}
