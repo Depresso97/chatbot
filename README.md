@@ -8,7 +8,7 @@ Command to start local server [npm run dev] (In the folder chatbot)
 
 # Softwares to Install
 
-1. node.js [from the internet] (I used versoin 12.13.0)
+1. node.js [from the internet] (User versoin n-1 )
 2. Express [npm install express --save] (In the folder chatbot)
 3. nodemon [npm install nodemon --save -dev] (In the folder chatbot)
 4. Body Parser [npm install body-parser --save] (In the folder chatbot)
